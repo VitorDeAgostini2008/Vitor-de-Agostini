@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Vitor de Agostini
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,7 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
-
+00001125025396sp@al.educacao.sp.gov.br
 @marcelopaludetto
 
-![descrição do GIF](link GIF do Tenor)
+![gato](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0cnV0ZnBidThxMTIxdHRibGYxZ2cwZ25veHV2N2JxYnlnaXAyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DFexVkRG7gX9oCy68r/giphy.gif)
